@@ -1,0 +1,24 @@
+{
+   "title":"[Nagayori] Kanna & Karin",
+   "description":"",
+   "author":"Nagayori",
+   "artist":"Nagayori",
+   "cover":"https://i.imgur.com/U1ZYqBI.png",
+   "chapters":{
+      "1":{
+         "groups":{
+            "Imgur":"/proxy/api/imgur/chapter/9rjoCEN"
+         },
+         "last_updated":1624606143,
+         "title":"Kanna & Karin Part 1",
+         "volume":"1"}
+      "2":{
+         "groups":{
+            "Imgur":"/proxy/api/imgur/chapter/dPSluSQ"
+         },
+         "last_updated":1624606143,
+         "title":"Kanna & Karin Part 2",
+         "volume":"2"}        
+      }
+   }
+}
