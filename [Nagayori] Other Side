@@ -1,0 +1,24 @@
+{
+   "title":"[Nagayori] Other Side",
+   "description":"",
+   "author":"Nagayori",
+   "artist":"Nagayori",
+   "cover":"https://i.imgur.com/OlEa1LF.png",
+   "chapters":{
+      "1":{
+         "groups":{
+            "Imgur":"/proxy/api/imgur/chapter/RMkhBpY"
+         },
+         "last_updated":1624606143,
+         "title":"Other Side",
+         "volume":"1"},
+      "2":{
+         "groups":{
+            "Imgur":"/proxy/api/imgur/chapter/4cagrmX"
+         },
+         "last_updated":1624606143,
+         "title":"[Nagayori] Other Side ~Their Days~",
+         "volume":"2"},
+      }
+   }
+}
