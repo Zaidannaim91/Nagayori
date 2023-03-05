@@ -1,0 +1,25 @@
+{
+   "title":"[Nagayori] Swept Away...",
+   "description":"",
+   "author":"Nagayori",
+   "artist":"Nagayori",
+   "cover":"https://i.imgur.com/N8CZFYI.png",
+   "chapters":{
+      "1":{
+         "groups":{
+            "Imgur":"/proxy/api/imgur/chapter/zvBbXoh"
+         },
+         "last_updated":1624606143,
+         "title":"Swept Away... Part 1",
+         "volume":"1"
+      },
+      "2":{
+         "groups":{
+            "Imgur":"/proxy/api/imgur/chapter/Pd1fyks"
+         },
+         "last_updated":1624606143,
+         "title":"Swept Away... Part 2 ~Their Summer~",
+         "volume":"2"         
+      }
+   }
+}
