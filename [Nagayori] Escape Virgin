@@ -1,0 +1,25 @@
+{
+   "title":"[Nagayori] Escape Virgin",
+   "description":"",
+   "author":"Nagayori",
+   "artist":"Nagayori",
+   "cover":"https://i.imgur.com/zaRAeDm.png",
+   "chapters":{
+      "1":{
+         "groups":{
+            "Imgur":"/proxy/api/imgur/chapter/rzlzKzI"
+         },
+         "last_updated":1624606143,
+         "title":"Escape Virgin Part 1",
+         "volume":"1"
+      },
+      "2":{
+         "groups":{
+            "Imgur":"/proxy/api/imgur/chapter/GhM9BBv"
+         },
+         "last_updated":1624606143,
+         "title":"Escape Virgin Part 2",
+         "volume":"2"         
+      }
+   }
+}
